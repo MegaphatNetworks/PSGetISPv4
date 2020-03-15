@@ -1,6 +1,10 @@
 # PSGetISPv4
 Purpose: Get the ISP for any IPv4 address
 
+# # Installation:
+Put the BAT file in your %SYSTEMROOT% folder.  Put the PS1 file and the RAR file in the folder %HOMEPATH%\PSGetISPv4 (obviously you need to create the PSGetISPv4 folder).  If not, you will need to change the destination for the BAT file.  unpack the RAR file into the same folder (%HOMEPATH%\PSGetISPv4).
+
+# # Usage:
 Execution is simple.  You run the script such as:
 powershell -ep bypass .\GetISP.ps1 8.8.8.8
 
