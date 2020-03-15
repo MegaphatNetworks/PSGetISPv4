@@ -1,3 +1,13 @@
+<#
+by Gabriel Polmar (gpolmar@megaphat.net), Megaphat Networks (https://www.megaphat.net)
+
+Purpose:
+	To find the IPv4 Address block owner of a specific IP address.
+
+Remarks:
+	I just threw this together hoping I could incorporate it into my company site but after realizing the hell of getting PS
+	to work on W2k3 Server, I figured I would just make this a desktop app to use with a commmand line.
+#>
 function CheckIP {
     [cmdletbinding()]
     [outputtype([System.Boolean])]
