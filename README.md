@@ -20,4 +20,6 @@ Please keep in mind my ISP data may be outdated.  I will try to update as soon a
 
 Many thanks to @omniomi (https://github.com/omniomi) for his IPInRange.ps1 script (https://github.com/omniomi/PSMailTools/blob/v0.2.0/src/Private/spf/IPInRange.ps1) as it really helped speed up my work. Ultimately my goal was to use this on my Megaphat website however after realizing that I will need to perform some surgery on my hosting server running w2k3, it wasn't worth the headache so I simply upped it to GH without a second thought.
 
-Just a side note, given the 25MB limit on GH, I had to RAR the data file.  Be sure to unrar it into the same folder before execution.
+Just a side note, given the 25MB limit on GH, I had to RAR the data file.  Be sure to unrar it into the same folder before execution.  
+Also I am unable to provide updated data as I am not about to pay for a MaxMind subscription and this data is about 5 years old.  
+I used every MM database I had to create a comprehensive assortment just for this purpose.  I could have gone further, but why?
